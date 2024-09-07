@@ -1,0 +1,8 @@
+name: CpuDefender
+main: me.athish.cpuDefender.CpuDefender
+version: 1.0
+commands:
+  cpudefender:
+    description: CpuDefender command
+    aliases: [cpudef]
+    usage: /<command> <start|stop>
